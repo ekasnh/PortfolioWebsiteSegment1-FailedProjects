@@ -45,14 +45,14 @@ export default function Footer() {
             {/* <Stack direction="row" spacing={0.5}> */}
             {/* <Tooltip title="portoflio (Git)" arrow> */}
             {/* <Link
-              href="https://github.com/adilzubair"
+              href="https://github.com/ekasnh"
               underline="none"
               color="white"
               target="_blank"
             > */}
             <Box
               component={Link}
-              href="https://github.com/adilzubair"
+              href="https://github.com/ekasnh"
               underline="none"
               color="white"
               target="_blank"

@@ -20,9 +20,8 @@
 - Died due to me and JAANI were working together lol
 - Only 300 people enrolled
 
-## [Job and Internship Portal](https://forms.gle/WpXA6tsSgfkZE5Ej7)
-- Collaborator: Saksham Tomar 
-- Only remains of this project is this google form 
+## [Job and Internship Portal](https://fresherjobhelper.netlify.app/)
+- Collaborator: Saksham Tomar  
 - created a super big community of people of approx 2100 and still counting idk where are these people comming from
 - Created a cool landing page from JavaScript and hosted on netlify
 - It contains a lot of data of students and recruiters that no-one in the world knows 

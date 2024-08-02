@@ -1,6 +1,4 @@
 import {
-  FaMedium,
-  FaBlog,
   FaGithub,
   FaLinkedin,
   FaEnvelope,
@@ -12,25 +10,25 @@ export const links = [
   {
     index: 0,
     title: "Find me on Github",
-    href: "https://github.com/adilzubair",
+    href: "https://github.com/ekasnh",
     icon: <FaGithub />,
   },
   {
     index: 1,
     title: "Find me on LinkedIn",
-    href: "https://www.linkedin.com/in/muhamedadil/",
+    href: "https://www.linkedin.com/in/ekansh-agarwal-aa38b718b/",
     icon: <FaLinkedin />,
   },
   {
     index: 2,
     title: "Contact me via email",
-    href: "muhamedadil03@gmail.com",
+    href: "ekansh237@gmail.com",
     icon: <FaEnvelope />,
   },
   {
     index: 3,
     title: "Find me on Instagram",
-    href: "https://www.instagram.com/ad1l.zubair/",
+    href: "https://www.instagram.com/ekanshagarwal01/",
     icon: <FaInstagram />,
   },
   {
