@@ -30,21 +30,7 @@ Highlighting failures isn't just about sharing what didn't work; it's about show
 
 **Remember**: Every failure is a step closer to success. Embrace the journey, laugh at the mishaps, and keep on coding.
 
-### Visit the Project Graveyard [Here](#)
-
-Stay groovy and keep coding,  
-**Ekansh Agarwal**
-
-![Snoop Dogg](https://media.giphy.com/media/3o7btPpQ7isMEo8fU8/giphy.gif)
-
----
-
-Feel free to connect with me on [LinkedIn](https://www.linkedin.com/ekansh-agarwal-aa38b718) and [GitHub](https://github.com/ekasnh) to follow more of my coding adventures.
-
----
 
 Made with ❤️ and a pinch of 🕶️ by Ekansh Agarwal
-
----
 
 *This site is a part of my personal portfolio. Check out my other projects [here](#).*
